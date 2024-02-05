@@ -24,12 +24,12 @@ FN: ${name}
 item.ORG: Creator Bot
 item1.TEL;waid=${numberowner}:${numberowner}@s.whatsapp.net
 item1.X-ABLabel:Nomor Creator Bot 
-item2.EMAIL;type=INTERNET:${gmail}
-item2.X-ABLabel:Email Owner
+item2.EMAIL;type=INTERNET:${name}
+item2.X-ABLabel:Owner
 item3.ADR:;;🇮🇩 Indonesia;;;;
 item3.X-ABADR:ac
-item4.EMAIL;type=INTERNET:support@tioprm.eu.org
-item4.X-ABLabel:Email Developer 
+item4.EMAIL;type=INTERNET:${name}
+item4.X-ABLabel:Developer 
 item3.ADR:;;🇮🇩 Indonesia;;;;
 item3.X-ABADR:ac 
 item5.URL:${instagram}
@@ -44,8 +44,8 @@ const sentMsg  = await conn.sendMessage(
         }
     }
 )
-await conn.reply(m.chat, "Itu Adalah nomor owner Bot", sentMsg)}
+await conn.reply(m.chat, "╳ ── ◸ *Mʏ Oᴡɴᴇʀ* ◹ ── ╳", sentMsg)}
 handler.command = handler.help = ['owner', 'creator'];
 handler.tags = ['info'];
-handler.limit = true;
+handler.limit = false;
 module.exports = handler;
