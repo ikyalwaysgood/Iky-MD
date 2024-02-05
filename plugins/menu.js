@@ -83,7 +83,6 @@ Hi %name 😁
 ┆⫹⫺ 💬 Sifat : Asik, Baik, Ramah, dll.
 ┆⫹⫺ 🗺️ Tinggal : Indonesia, Jakarta
 ╚════════ஜ۩۞۩ஜ════════╝
-
 ⟣⟞⟚⟝ 〨⎣ *Nᴏᴛᴇ* ⎤〨 ⟞⟚⟝⟢
 𐚀 Owner tidak respon chat aneh
 𐚀 Owner berhak block siapa saja
