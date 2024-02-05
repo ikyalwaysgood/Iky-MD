@@ -15,7 +15,7 @@ global.author = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
 global.maxwarn = '2' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
-global.btc = 'ikyalwaysgood' 
+global.btc = 'YOUR_API_KEY' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 global.lolkey = 'GataDios'
 global.xkey = 'd90a9e986e18778b'
@@ -49,7 +49,7 @@ global.APIs = {
   BarBarkey: 'https://api.barbar.moe'
 }
 global.APIKeys = { 
-  'https://api.botcahx.eu.org': 'ikyalwaysgood',
+  'https://api.botcahx.eu.org': 'YOUR_API_KEY',
   'https://api.lolhuman.xyz': 'GataDios',
   'https://skizo.tech': 'konekocyz', 
   'https://api.betabotz.org': 'p8ADYJib', 
