@@ -6,7 +6,7 @@ const os = require('os');
 const express = require('express');
 const app = express();
 
-const port = process.env.PORT || 3000 || 5000 || 8000;
+const port = process.env.PORT || 8000;
 
 console.log('\x1b[33m%s\x1b[0m', `🌐 Port ${port} is open`);
 app.get('/', (req, res) => {
@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
   const data = {
     status: 'true',
     message: 'Bot Successfully Activated!',
-    author: 'BOTCAHX'
+    author: 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
   };
   const result = {
     response: data
@@ -73,7 +73,7 @@ function start(file) {
 
     fs.watchFile(args[0], () => {
       fs.unwatchFile(args[0]);
-	  console.error('\x1b[31m%s\x1b[0m', `File ${args[0]} has been modified. Script will restart...`);
+          console.error('\x1b[31m%s\x1b[0m', `File ${args[0]} has been modified. Script will restart...`);
       start("main.js");
     });
   });
@@ -107,7 +107,7 @@ function start(file) {
   console.log(`💾 \x1b[33mTotal RAM: ${ramInGB.toFixed(2)} GB\x1b[0m`);
   const freeRamInGB = os.freemem() / (1024 * 1024 * 1024);
   console.log(`💽 \x1b[33mFree RAM: ${freeRamInGB.toFixed(2)} GB\x1b[0m`);
-  console.log('\x1b[33m%s\x1b[0m', `📃 Script by BOTCAHX`);
+  console.log('\x1b[33m%s\x1b[0m', `📃 Script by Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ`);
 
   setInterval(() => {}, 1000);
 }
