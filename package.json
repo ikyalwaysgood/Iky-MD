@@ -1,5 +1,5 @@
 {
-    "name": "rtxzy",
+    "name": "ikyofficial",
     "version": "7.0.1",
     "description": "Lightweight WhatsApp Bot",
     "depecrated": false,
@@ -24,18 +24,19 @@
         "wabot-aq",
         "whiskeysockets",
         "botcahx",
+        "ikyofficial",
         "baileys"
     ],
-    "homepage": "https://github.com/BOTCAHX/RTXZY-MD",
+    "homepage": "https://github.com/ikyalwaysgood/Iky",
     "author": {
-        "name": "BOTCAHX"
+        "name": "Kιɳα Bσƚ"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BOTCAHX/RTXZY-MD.git"
+        "url": "git+https://github.com/ikyalwaysgood/Iky"
     },
     "bugs": {
-        "url": "https://github.com/BOTCAHX/RTXZY-MD/issues"
+        "url": "https://github.com/ikyalwaysgood/Iky/issues"
     },
     "license": "MIT",
     "dependencies": {
