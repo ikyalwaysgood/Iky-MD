@@ -52,8 +52,8 @@ module.exports = {
                     if (!isNumber(user.shield)) user.shield = false
                     if (!isNumber(user.pertanian)) user.pertanian = 0
                     if (!isNumber(user.pertambangan)) user.pertambangan = 0
-                    
-                    
+
+
                     if (!isNumber(user.botol)) user.botol = 0
                     if (!isNumber(user.kardus)) user.kardus = 0
                     if (!isNumber(user.kaleng)) user.kaleng = 0
@@ -62,7 +62,7 @@ module.exports = {
                     if (!isNumber(user.iron)) user.iron = 0
                     if (!isNumber(user.emas)) user.emas = 0
                     if (!isNumber(user.arlok)) user.arlok = 0
-        
+
                     if (!isNumber(user.common)) user.common = 0
                     if (!isNumber(user.as)) user.as = 0
                     if (!isNumber(user.uncommon)) user.uncommon = 0
@@ -73,7 +73,7 @@ module.exports = {
                     if (!isNumber(user.pet)) user.pet = 0
                     if (!isNumber(user.psepick)) user.psepick = 0
                     if (!isNumber(user.psenjata)) user.psenjata = 0
-                
+
                     if (!isNumber(user.potion)) user.potion = 0
                     if (!isNumber(user.sampah)) user.sampah = 0
                     if (!isNumber(user.armor)) user.armor = 0
@@ -95,7 +95,7 @@ module.exports = {
                     if (!isNumber(user.fishingrod)) user.fishingrod = 0
                     if (!isNumber(user.fishingroddurability)) user.fishingroddurability = 0
                     if (!isNumber(user.umpan)) user.umpan = 0
-                    
+
                     if (!isNumber(user.kucing)) user.kucing = 0
                     if (!isNumber(user.kucinglastclaim)) user.kucinglastclaim = 0
                     if (!isNumber(user.kuda)) user.kuda = 0
@@ -109,21 +109,21 @@ module.exports = {
                     if (!isNumber(user.phonixlastclaim)) user.phonixlastclaim = 0
                     if (!isNumber(user.griffinlastclaim)) user.griffinlastclaim = 0
                     if (!isNumber(user.centaurlastclaim)) user.centaurlastclaim = 0
-                    
+
                     if (!isNumber(user.makananpet)) user.makananpet
                     if (!isNumber(user.makanannaga)) user.makanannaga = 0
                     if (!isNumber(user.makananphonix)) user.makananphonix = 0
                     if (!isNumber(user.makanangriffin)) user.makanangriffin = 0
                     if (!isNumber(user.makananserigala)) user.makananserigala = 0
                     if (!isNumber(user.makanancentaur)) user.makanancentaur = 0
-        
+
                     if (!'Banneduser' in user) user.Banneduser = false
                     if (!'BannedReason' in user) user.BannedReason = ''
                     if (!isNumber(user.warn)) user.warn = 0
-        
+
                     if (!isNumber(user.afk)) user.afk = -1
                     if (!'afkReason' in user) user.afkReason = ''
-                
+
                 //PET
                     if (!isNumber(user.healthmonster)) user.healthmonster = 0
                     if (!isNumber(user.anakkucing)) user.anakkucing = 0
@@ -143,10 +143,10 @@ module.exports = {
                     if (!isNumber(user.centaur)) user.centaur = 0
                     if (!isNumber(user.anakcentaur)) user.anakcentaur = 0
                     if (!isNumber(user.makananpet)) user.makananpet = 0
-        
+
                     if (!isNumber(user.antispam)) user.antispam = 0
                     if (!isNumber(user.antispamlastclaim)) user.antispamlastclaim = 0
-        
+
                     if (!isNumber(user.kayu)) user.kayu = 0
                     if (!('kingdom' in user)) user.kingdom = false
                     if (!isNumber(user.batu)) user.batu = 0
@@ -158,7 +158,7 @@ module.exports = {
                     if (!isNumber(user.pickaxedurability)) user.pickaxedurability = 0
                     if (!isNumber(user.fishingrod)) user.fishingrod = 0
                     if (!isNumber(user.fishingroddurability)) user.fishingroddurability = 0
-        
+
                     //mancing
                     if (!isNumber(user.paus)) user.paus = 0
              if (!isNumber(user.kepiting)) user.kepiting = 0
@@ -175,7 +175,7 @@ module.exports = {
              if (!isNumber(user.bawal)) user.bawal = 0
              if (!isNumber(user.lele)) user.lele = 0
              if (!isNumber(user.orca)) user.orca = 0
-                
+
              if (!isNumber(user.banteng)) user.banteng = 0
              if (!isNumber(user.harimau)) user.harimau = 0
              if (!isNumber(user.gajah)) user.gajah = 0
@@ -188,7 +188,7 @@ module.exports = {
              if (!isNumber(user.babihutan)) user.babihutan = 0
              if (!isNumber(user.babi)) user.babi = 0
              if (!isNumber(user.ayam)) user.ayam = 0
-         
+
                     if (!isNumber(user.lastadventure)) user.lastadventure = 0
                     if (!isNumber(user.lastkill)) user.lastkill = 0
                     if (!isNumber(user.lastfishing)) user.lastfishing = 0
@@ -220,7 +220,7 @@ module.exports = {
                     if (!('registered' in user)) user.registered = false
                     if (!user.registered) {
                     if (!('name' in user)) user.name = this.getName(m.sender)
-        
+
                     if (!isNumber(user.apel)) user.apel = 0
                     if (!isNumber(user.anggur)) user.anggur = 0
                     if (!isNumber(user.jeruk)) user.jeruk = 0
@@ -236,12 +236,12 @@ module.exports = {
                     if (!isNumber(user.bibitapel)) user.bibitapel = 0
                     if (!isNumber(user.bibitmangga)) user.bibitmangga = 0
                     if (!isNumber(user.bibitjeruk)) user.bibitjeruk = 0
-        
-                      
+
+
                         if (!isNumber(user.age)) user.age = -1
                         if (!isNumber(user.premiumDate)) user.premiumDate = -1
                         if (!isNumber(user.regTime)) user.regTime = -1
-                        
+
         }
                     if (!isNumber(user.level)) user.level = 0
                     if (!user.job) user.job = 'Pengangguran'
@@ -348,7 +348,7 @@ module.exports = {
                     makananphonix: 0,
                     makanancentaur: 0,
                     makananserigala: 0,
-                    
+
                     Banneduser: false,
                     BannedReason: '',
                     warn: 0,
@@ -702,9 +702,9 @@ module.exports = {
         switch (action) {
         case 'add':
         case 'remove':
-		case 'leave':
-		case 'invite':
-		case 'invite_v4':
+    case 'leave':
+    case 'invite':
+    case 'invite_v4':
                 if (chat.welcome) {
                     let groupMetadata = await this.groupMetadata(id) || (conn.chats[id] || {}).metadata
                     for (let user of participants) {
@@ -718,12 +718,12 @@ module.exports = {
                             this.sendMessage(id, {
                             text: text,
                             contextInfo: {
-			    mentionedJid: [user],
+          mentionedJid: [user],
                             externalAdReply: {  
-                            title: action === 'add' ? 'Selamat Datang' : 'Selamat tinggal',
+                            title: action === 'add' ? 'Selamat Datang Kak' : 'Selamat Tinggal Kak',
                             body: global.wm,
                             thumbnailUrl: pp,
-                            sourceUrl: 'https://api.botcahx.eu.org',
+                            sourceUrl: 'https://chat.whatsapp.com/GbNiwLK3R9y4pOUFDW5eAQ',
                             mediaType: 1,
                             renderLargerThumbnail: true 
                             }}}, { quoted: null})
@@ -764,15 +764,15 @@ Untuk mematikan fitur ini, ketik
 
 global.dfail = (type, m, conn) => {
     let msg = {
-        rowner: 'Perintah ini hanya dapat digunakan oleh _*OWWNER!1!1!*_',
-        owner: 'Perintah ini hanya dapat digunakan oleh _*Owner Bot*_!',
+        rowner: 'Perintah ini hanya dapat digunakan oleh _*Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ*_',
+        owner: 'Perintah ini hanya dapat digunakan oleh _*Owner Kιɳα Bσƚ*_!',
         mods: 'Perintah ini hanya dapat digunakan oleh _*Moderator*_ !',
         premium: 'Perintah ini hanya untuk member _*Premium*_ !',
         group: 'Perintah ini hanya dapat digunakan di grup!',
         private: 'Perintah ini hanya dapat digunakan di Chat Pribadi!',
         admin: 'Perintah ini hanya untuk *Admin* grup!',
         botAdmin: 'Jadikan bot sebagai *Admin* untuk menggunakan perintah ini!',
-        unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*#daftar nama.umur*\n\nContoh: *#daftar Mansur.16*',
+        unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*#daftar nama.umur*\n\nContoh: *#daftar Kιɳα Bσƚ.19*',
         restrict: 'Fitur ini di *disable*!'
     }[type]
     if (msg) return m.reply(msg)
