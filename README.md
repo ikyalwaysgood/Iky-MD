@@ -14,8 +14,8 @@ Unduh & Instal Git Klik Disini
 Unduh & Instal NodeJS Klik Disini
 Unduh & Instal FFmpeg Klik Disini (Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH)
 Unduh & Instal ImageMagick Klik Disini
-git clone https://github.com/ikyalwaysgood/Iky
-cd Iky
+git clone https://github.com/ikyalwaysgood/Iky-MD
+cd Iky-MD
 npm i
 npm start
 // to get pairing code //
