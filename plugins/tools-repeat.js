@@ -1008,7 +1008,7 @@ ${text}
 handler.help = ['repeat <teks>']
 handler.tags = ['tools']
 handler.command = /^(repeat)$/i
-handler.owner = false
+handler.owner = true
 handler.mods = false
 handler.premium = false
 handler.group = false
