@@ -4,8 +4,8 @@ let handler = async (m, { conn, command }) => {
   if (res.status != 200) throw await res.text()
   let json = await res.json()
   if (!json.status) throw json
-conn.sendFile(m.chat, json.result.female,  'pp.jpg', 'PP Cewenya', m)
-conn.sendFile(m.chat, json.result.male,'pria.jpg',  'PP Cowonya', m)
+conn.sendFile(m.chat, json.result.female,  'pp.jpg', 'PP Cewenya © Kιɳα Bσƚ', m)
+conn.sendFile(m.chat, json.result.male,'pria.jpg',  'PP Cowonya © Kιɳα Bσƚ', m)
 
 }
 handler.help = ['ppcp']
