@@ -21,7 +21,7 @@ Daftar berhasil!
 ╭─「 Info 」
 │ Nama: ${name}
 │ Umur: ${age} tahun 
-╰────
+╰──── © Kιɳα Bσƚ
 Serial Number: 
 ${sn}
 `.trim())
