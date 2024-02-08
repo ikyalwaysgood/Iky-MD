@@ -4,7 +4,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
     let time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
 
 var ct = `
-*───「 RUNTIME BOT 」───*
+*┅═╡ RUNTIME Kιɳα Bσƚ ╞═┅*
 
 Runtime : ${tio}
     `
