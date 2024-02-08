@@ -15,7 +15,7 @@ extendedTextMessage:{
                         mediaType: 1,
                         previewType: 0,
                         renderLargerThumbnail: true,
-                        thumbnailUrl: 'https://telegra.ph/file/dc5a67d724b016574129b.jpg',
+                        thumbnailUrl: 'https://cdn.btch.bz/file/06e8d93a5831ce577b93e.jpg',
                         sourceUrl: ''
                     }
                 }, mentions: [m.sender]
