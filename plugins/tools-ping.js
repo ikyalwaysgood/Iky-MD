@@ -159,8 +159,8 @@ extendedTextMessage:{
                         mediaType: 1,
                         previewType: 0,
                         renderLargerThumbnail: true,
-                        thumbnailUrl: 'https://telegra.ph/file/ec8cf04e3a2890d3dce9c.jpg',
-                        sourceUrl: ''
+                        thumbnailUrl: 'https://cdn.btch.bz/file/06e8d93a5831ce577b93e.jpg',
+                        sourceUrl: 'https://chat.whatsapp.com/GbNiwLK3R9y4pOUFDW5eAQ'
                     }
                 }, mentions: [m.sender]
 }}, {})
