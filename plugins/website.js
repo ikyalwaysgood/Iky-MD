@@ -2,8 +2,8 @@ let handler = async m => {
 
 let krtu = `web`
 m.reply(`
-> https://api.botcahx.eu.org
-> https://tioprm.link
+> https://wa.me/6285794908894
+> https://www.instagram.com/iky_alwaysgood?igsh=MXdwbXR3a2xxNjRocA==
 
 `.trim()) 
 }
