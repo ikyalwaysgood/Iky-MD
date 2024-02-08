@@ -4,7 +4,7 @@ let handler = async (m, { conn }) => {
     let uptimex = clockString(_uptime)
 
     let tio = `
-Mode: ${global.opts['self'] ? 'Self' : 'publik'}\nAktif: ${uptimex}\nPengguna: ${Object.keys(global.db.data.users).length}\nPengguna Terbanned: ${Object.entries(global.db.data.users).filter(user => user[1].banned).length}\nFitur Sering Digunakan: ${Object.entries(db.data.stats).length}\n\nJika bot tidak ada balasan maka bot sedang maintenance.
+Mode: ${global.opts['self'] ? 'Self' : 'publik'}\nAktif: ${uptimex}\nPengguna: ${Object.keys(global.db.data.users).length}\nPengguna Terbanned: ${Object.entries(global.db.data.users).filter(user => user[1].banned).length}\nFitur Sering Digunakan: ${Object.entries(db.data.stats).length}\n\nJika Kιɳα Bσƚ tidak ada balasan maka Kιɳα Bσƚ sedang maintenance.
     `.trim()
 conn.relayMessage(m.chat, {
 extendedTextMessage:{
@@ -16,7 +16,7 @@ extendedTextMessage:{
                         previewType: 0,
                         renderLargerThumbnail: true,
                         thumbnailUrl: 'https://cdn.btch.bz/file/06e8d93a5831ce577b93e.jpg',
-                        sourceUrl: ''
+                        sourceUrl: 'https://chat.whatsapp.com/GbNiwLK3R9y4pOUFDW5eAQ'
                     }
                 }, mentions: [m.sender]
 }}, {})
