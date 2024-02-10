@@ -4,7 +4,7 @@ var handler = async (m, {
  usedPrefix, 
  command
  }) => {
-if (!text) throw `Masukkan pertanyaan!\n\n*Contoh:* Siapa presiden Indonesia? `
+if (!text) throw `Masukkan pertanyaan!\n\n*Contoh:* Kapan Indonesia merdeka ? `
 try {
   await m.reply(wait)
   var apii = await fetch(`https://api.botcahx.eu.org/api/search/openai-chat?text=${text}&apikey=${btc}`)
