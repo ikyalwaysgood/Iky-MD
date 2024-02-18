@@ -12,7 +12,7 @@ try {
   await m.reply(res.message)
 } catch (err) {
   console.error(err)
-  throw "Terjadi kesalahan dalam menjawab pertanyaan"
+  throw "_Terjadi kesalahan dalam menjawab pertanyaan!_"
 }
 }
 handler.command = handler.help = ['ai','openai','chatgpt'];
