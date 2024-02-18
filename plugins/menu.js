@@ -213,7 +213,7 @@ text = typeof conn.menu == 'string' ? conn.menu : typeof conn.menu == 'object' ?
 }
 handler.help = ['menu']
 handler.tags = ['main']
-handler.command = /^(allmenu|help)$/i
+handler.command = /^(menu|allmenu|help)$/i
 
 handler.exp = 3
 
