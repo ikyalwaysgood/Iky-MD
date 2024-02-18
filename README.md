@@ -15,13 +15,13 @@
 - ✔️ | **Multi Device** 
 ---------
 ### Fitur Yang Dimiliki
-- ✔️ | Anime 
+- ✔️ | AI 
 - ✔️ | Tools 
 - ✔️ | Remini
 - ✔️ | Quotes
 - ✔️ | Confess
 - ✔️ | Chat Gpt
-- ✔️ | To Anime
+- ✔️ | To URL
 - ✔️ | Werewolf Games
 - ✔️ | And Others
 ---------
