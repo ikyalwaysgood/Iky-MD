@@ -45,7 +45,7 @@ const defaultMenu = {
 ❖━━━━━◥▓█倫[ *Kιɳα Bσƚ* ]倫█▓◤━━━━━❖
  ⠀⚠️ *_GUNAKAN BOT DENGAN BIJAK_* ⚠️
 ┏━━━━━━━━•━━━━━━━━━
-┃⬡ Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ
+┃⬡ Creator: Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ
 ┣━━━━━━━┅┅┅━━━━━━━•
 ┃⬡( Hallo %name 👋
 ┃⬡ ─❑ [ *𝕀ℕ𝔽𝕆 USER* ] ❑─
