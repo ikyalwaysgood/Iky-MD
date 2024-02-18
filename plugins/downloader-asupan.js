@@ -18,7 +18,7 @@ let handler = async(m, { conn }) => {
     await conn.sendFile(m.chat, url, null, '', m);
   } catch (e) {
     console.log(e);
-    m.reply('Maaf, video asupan tidak ditemukan');
+    m.reply('_Maaf, video asupan tidak ditemukan_');
   }
 }
 
