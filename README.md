@@ -20,8 +20,8 @@ Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```javascript
-git clone https://github.com/ikyalwaysgood/Iky
-cd Iky
+git clone https://github.com/ikyalwaysgood/Iky-MD
+cd Iky-MD
 npm i
 npm start
 ```
