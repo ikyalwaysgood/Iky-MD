@@ -1,49 +1,9 @@
-## New Update
-
-**Pembaruan :**
-- Fix upload file ke server [`cdn`](https://btch.pages.dev), dan temporary [`File Hosting`](https://file.botcahx.eu.org)
-- Menggunakan QR dan pairing code 
-- Use pairing ```node . --pairing``` 
-- Fitur 90% implementasi dari website api
-- Penambah output url expres.js agar bisa di jalankan di render dsb.
-- Informasi api [WhatsApp](https://whatsapp.com/channel/0029Va8ZH8fFXUuc69TGVw1q)
-  ## Note!
-  **Important :**
-
-- Untuk menggunakan bot ini, kamu diwajibkan mengisi ```Apikey``` terlebih dahulu, Jika tidak mengisinya maka bot tidak akan berfungsi dengan baik.
-- Tidak disarankan menginstal bot ini di termux atau panel yang tidak mempunyai kelengkapan ffmpeg, imagemagick, webp atau panel yang tidak support express.js
-
-- Menggunakan 60% fitur dari [`RestApi`](https://api.botcahx.eu.org)  
-
-
-**Apikey :**
-- [✓] Free ApiKey 15 Request (/day)
-- [✓] Premium ApiKey 5000 Request (for 1 month)
-- Jika ingin membeli ```Apikey``` Premium silahkan register lalu pilih paket yang di inginkan [`Pilih`](https://api.botcahx.eu.org/price)
-
-**Website Api :**
-- BOTCAHX [`Register`](https://api.botcahx.eu.org)
-- Lann [`Register`](https://api.betabotz.eu.org)
-- Setelah mendapatkan apikey silahkan paste di config.js pada bagian ```global.btc``` dan sebagai optional kamu bisa juga mengisi ```global.lann```
-
-
-## Group Bot
-- Group Bot [`Join`](https://chat.whatsapp.com/CP5mV2D9IO730HpBgmkuyi)
-- Group Bebas [`Join`](https://chat.whatsapp.com/KrxlrTjuZ1o3gbL4fyXTnL)
-## Support
-
-<a href="https://sociabuzz.com/tioclkp02" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32px" alt="Sociabuzz"></a>
-
-
-### `Render`
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBOTCAHX%2FRTXZY-MD)
 ## Base Ori
 Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
 
 ## Run On Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOTCAHX/RTXZY-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ikyalwaysgood/Iky)
 # Heroku Buildpack
 ### Instal Buildpack
 ```bash
@@ -60,8 +20,8 @@ Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```javascript
-git clone https://github.com/ikyalwaysgood/Iky-MD
-cd Iky-MD
+git clone https://github.com/ikyalwaysgood/Iky
+cd Iky
 npm i
 npm start
 ```
@@ -69,6 +29,10 @@ npm start
 // to get pairing code //
 
 node index.js --pairing
+
+```
+
+
 
 ```
 
