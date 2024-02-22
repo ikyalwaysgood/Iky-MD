@@ -55,9 +55,9 @@ const defaultMenu = {
 ┃⬡ %totalexp *_XP secara Total_*
 ┗━━━━━━━┅┅┅━━━━━━━•
 
-–––––––––––┅┅ *ᴅᴇsᴄʀɪᴘᴛɪᴏɴ* ┅┅–––––––––––
-Hi %name 😁 
-*Kιɳα Bσƚ* is a smart and very useful WhatsApp bot to help you answer questions and provide the right solution in a short time. This bot uses a mixture of other bot sources which are continuously updated and developed by *Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ*, to provide an easier and more enjoyable interaction experience.
+Hi %name 👋🏻
+Saya merupakan bot WhatsApp yang di kembangkan oleh *Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ* .
+Saya bisa membantumu kapan pun dan di manapun kamu berada, Dan saya juga bisa membuat kamu menghilangkan rasa gabut..., Oh iya. kamu dapat nomor saya dari mana? Sebelum menggunakan bot ini, kamu harus tau rules nya yah agar tidak ter banned oleh bot. Terima kasih sudah menggunakan *Kιɳα Bσƚ* & Bot ini terjaga privasi nya!
 
  ◦  *Library:* Baileys
  ◦  *Function:* Assistant
