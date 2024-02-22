@@ -45,9 +45,9 @@ const defaultMenu = {
 ❖━━━━━◥▓█倫[ *Kιɳα Bσƚ* ]倫█▓◤━━━━━❖
  ⠀⚠️ *_GUNAKAN BOT DENGAN BIJAK_* ⚠️
 ┏━━━━━━━━•━━━━━━━━━
-┃⬡ ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِوَبَرَكَاتُهُ
+┃⬡ Assalamu'alaikum 
 ┣━━━━━━━┅┅┅━━━━━━━•
-┃⬡( Hallo %name 👋
+┃⬡ Hallo %name 👋
 ┃⬡ ─❑ [ *𝕀ℕ𝔽𝕆 USER* ] ❑─
 ┃⬡ *_Tersisa ➨_* %limit Limit
 ┃⬡ *_Role ➨_* %role
