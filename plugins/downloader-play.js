@@ -62,6 +62,6 @@ var handler = async (m, {
 handler.command = handler.help = ['play'];
 handler.tags = ['downloader'];
 handler.exp = 0;
-handler.limit = true;
+handler.limit = false;
 handler.premium = false;
 module.exports = handler;
