@@ -18,7 +18,7 @@ Kamu berhenti AFK${user.afkReason ? ' 𝚜𝚎𝚝𝚎𝚕𝚊𝚑 ' + user.afkR
     let reason = user.afkReason || ''
     m.reply(`
 𝙹𝚊𝚗𝚐𝚊𝚗 𝚝𝚊𝚐 𝚍𝚒𝚊 !
-Dia sedang AFK ${reason ? '𝚍𝚎𝚗𝚐𝚊𝚗 𝚊𝚕𝚊𝚜𝚊𝚗 ' + reason : '𝚝𝚊𝚗𝚙𝚊 𝚊𝚕𝚊𝚜𝚊𝚗'}
+𝙳𝚒𝚊 𝚜𝚎𝚍𝚊𝚗𝚐 𝙰𝙵𝙺 ${reason ? '𝚍𝚎𝚗𝚐𝚊𝚗 𝚊𝚕𝚊𝚜𝚊𝚗 ' + reason : '𝚝𝚊𝚗𝚙𝚊 𝚊𝚕𝚊𝚜𝚊𝚗'}
 𝚂𝚎𝚕𝚊𝚖𝚊 ${clockString(new Date - afkTime)}
 `.trim())
   }
