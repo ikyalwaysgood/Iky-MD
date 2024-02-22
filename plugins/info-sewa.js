@@ -1,7 +1,7 @@
 let fetch = require('node-fetch')
 
 let handler = async (m, { conn, command }) => {
-    let buffer = await fetch(`https://cdn.btch.bz/file/06e8d93a5831ce577b93e.jpg`).then(res => res.buffer())
+    let buffer = await fetch(`https://btch.pages.dev/file/9e4162d4034241953fdfb.jpg`).then(res => res.buffer())
     conn.sendFile(m.chat, buffer, 'hasil.jpg', `*Jika ingin melakukan pembayaran silahkan ketik .owner untuk pembayaran ke WhatsApp Owner.*`, m)
 }
 
