@@ -71,7 +71,7 @@ extendedTextMessage:{
                         mediaType: 1,
                         previewType: 0,
                         renderLargerThumbnail: true,
-                        thumbnailUrl: 'https://cdn.btch.bz/file/06e8d93a5831ce577b93e.jpg',
+                        thumbnailUrl: 'https://btch.pages.dev/file/9e4162d4034241953fdfb.jpg',
                         sourceUrl: 'https://chat.whatsapp.com/GbNiwLK3R9y4pOUFDW5eAQ'
                     }
                 }, mentions: [m.sender]
