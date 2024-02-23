@@ -2,16 +2,16 @@ const fs = require('fs')
 
 let handler = async (m, { conn }) => {
 let loadd = [
-    '*□■■■■■■■■■  1𝟶٪*',
-    '*■□■■■■■■■■  2𝟶٪*',
-    '*■■□■■■■■■■  3𝟶٪*',
-    '*■■■□■■■■■■  4𝟶٪*',
-    '*■■■■□■■■■■  5𝟶٪*',
-    '*■■■■■□■■■■  6𝟶٪*',
-    '*■■■■■■□■■■  7𝟶٪*',
-    '*■■■■■■■□■■  8𝟶٪*',
-    '*■■■■■■■■□■  9𝟶٪*',
-    '*■■■■■■■■■□  𝟷𝟶𝟶٪*',
+    '*▬▭▭▭▭▭▭▭▭▭  1𝟶٪*',
+    '*▬▬▭▭▭▭▭▭▭▭  2𝟶٪*',
+    '*▬▬▬▭▭▭▭▭▭▭  3𝟶٪*',
+    '*▬▬▬▬▭▭▭▭▭▭  4𝟶٪*',
+    '*▬▬▬▬▬▭▭▭▭▭  5𝟶٪*',
+    '*▬▬▬▬▬▬▭▭▭▭  6𝟶٪*',
+    '*▬▬▬▬▬▬▬▭▭▭  7𝟶٪*',
+    '*▬▬▬▬▬▬▬▬▭▭  8𝟶٪*',
+    '*▬▬▬▬▬▬▬▬▬▭  9𝟶٪*',
+    '*▬▬▬▬▬▬▬▬▬▬  𝟷𝟶𝟶٪*',
     '*𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳. . .*'
  ]
 
@@ -25,7 +25,7 @@ ubah di bawah!!!
  conn.sendMessage(m.chat, {
       video: { url: "https://cdn.btch.bz/file/f9a97e61c0ef0ebdcbad4.mp4"},
       gifPlayback: true,
-      caption: ' *_"Kemauan adalah kunci sukses. Orang-orang sukses, berusaha keras apa pun yang mereka rasakan dengan menerapkan keinginan mereka untuk mengatasi sikap apatis, keraguan atau ketakutan."_*\n\n❖━━━[ *Kιɳα Bσƚ* ]━━━❖\n*.allmenu*\n*.info*',     
+      caption: ' *_"Kemauan adalah kunci sukses. Orang-orang sukses, berusaha keras apa pun yang mereka rasakan dengan menerapkan keinginan mereka untuk mengatasi sikap apatis, keraguan atau ketakutan."_*\n\n❖━━━[ *Kιɳα Bσƚ* ]━━━❖\n*.allmenu*\n*.owner*',     
       contextInfo: {
       externalAdReply: {
       title: `© Kιɳα Bσƚ`,
