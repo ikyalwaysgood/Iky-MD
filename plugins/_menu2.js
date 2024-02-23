@@ -23,7 +23,7 @@ await conn.sendMessage(m.chat, {text: loadd[i], edit: key })}
 ubah di bawah!!!
 `;
  conn.sendMessage(m.chat, {
-      video: { url: "https://cdn.btch.bz/file/f9a97e61c0ef0ebdcbad4.mp4"},
+      video: { url: "https://btch.pages.dev/file/e3cdfeaf72fd2d4dbd3e0.mp4"},
       gifPlayback: true,
       caption: ' *_"Kemauan adalah kunci sukses. Orang-orang sukses, berusaha keras apa pun yang mereka rasakan dengan menerapkan keinginan mereka untuk mengatasi sikap apatis, keraguan atau ketakutan."_*\n\n❖━━━[ *Kιɳα Bσƚ* ]━━━❖\n*.allmenu*\n*.owner*',     
       contextInfo: {
