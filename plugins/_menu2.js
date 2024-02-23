@@ -30,7 +30,7 @@ ubah di bawah!!!
       externalAdReply: {
       title: `© Kιɳα Bσƚ`,
       body: global.author,
-      thumbnailUrl: 'https://cdn.btch.bz/file/f688b18ab8a13073db186.jpg',
+      thumbnailUrl: 'https://btch.pages.dev/file/9e4162d4034241953fdfb.jpg',
       sourceUrl: `https://whatsapp.com/channel/0029VaACVbGDuMRk7zy6vI3a`,
       mediaType: 1,
       renderLargerThumbnail: true
