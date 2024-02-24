@@ -26,15 +26,7 @@ ubah di bawah!!!
       video: { url: "https://btch.pages.dev/file/e3cdfeaf72fd2d4dbd3e0.mp4"},
       gifPlayback: true,
       caption: ' *_"Kemauan adalah kunci sukses. Orang-orang sukses, berusaha keras apa pun yang mereka rasakan dengan menerapkan keinginan mereka untuk mengatasi sikap apatis, keraguan atau ketakutan."_*\n\n┏━━━━━━━━•━━━━━━━━━\n
-┃⬡ Assalamu'alaikum\n 
-┣━━━━━━━┅┅┅━━━━━━━•\n
-┃⬡ Hallo %name 👋\n
-┃⬡ ─❑ [ *𝕀ℕ𝔽𝕆 USER* ] ❑─\n
-┃⬡ *_Tersisa ➨_* %limit Limit\n
-┃⬡ *_Role ➨_* %role\n
-┃⬡ *_Level ➨_* %level (%exp / %maxexp) [%xp4levelup]\n
-┃⬡ %totalexp *_XP secara Total_*\n
-┗━━━━━━━┅┅┅━━━━━━━•\n\n❖━━━[ *Kιɳα Bσƚ* ]━━━❖\n*.allmenu*\n*.owner*',     
+┃⬡ Assalamu'alaikum\n┣━━━━━━━┅┅┅━━━━━━━•\n┃⬡ Hallo %name 👋\n┃⬡ ─❑ [ *𝕀ℕ𝔽𝕆 USER* ] ❑─\n┃⬡ *_Tersisa ➨_* %limit Limit\n┃⬡ *_Role ➨_* %role\n┃⬡ *_Level ➨_* %level (%exp / %maxexp) [%xp4levelup]\n┃⬡ %totalexp *_XP secara Total_*\n┗━━━━━━━┅┅┅━━━━━━━•\n\n❖━━━[ *Kιɳα Bσƚ* ]━━━❖\n*.allmenu*\n*.owner*',     
       contextInfo: {
       externalAdReply: {
       title: `© Kιɳα Bσƚ`,
