@@ -201,7 +201,7 @@ text = typeof conn.menu == 'string' ? conn.menu : typeof conn.menu == 'object' ?
                         mediaType: 1,
                         previewType: 0,
                         renderLargerThumbnail: true,
-                        thumbnailUrl: 'https://btch.pages.dev/file/9e4162d4034241953fdfb.jpg',
+                        thumbnailUrl: 'https://telegra.ph/file/da3dd014f4481e4bbd089.jpg',
                         sourceUrl: 'https://chat.whatsapp.com/GbNiwLK3R9y4pOUFDW5eAQ'
                     }
                 }, mentions: [m.sender]
