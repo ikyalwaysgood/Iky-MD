@@ -71,7 +71,7 @@ Saya bisa membantumu kapan pun dan di manapun kamu berada, Dan saya juga bisa me
 ┠◦ *_Version ➨_* %version
 ┠◦ *_Prefix Used ➨_* *[ %p ]*
 ┗━━━━━━━━━━━━━━━⚀︎
-╔═════ஜ◸ *Mʏ Oᴡɴᴇʀ* ◹ஜ═════╗
+╔══════ஜ◸ *Mʏ Oᴡɴᴇʀ* ◹ஜ══════╗
 ┆⫹⫺ 👤 Nama : Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ
 ┆⫹⫺ 🤖 Nama Bot : Kιɳα Bσƚ
 ┆⫹⫺ ♂️ Gender : Pria
@@ -82,7 +82,7 @@ Saya bisa membantumu kapan pun dan di manapun kamu berada, Dan saya juga bisa me
 ┆⫹⫺ 🧩 Hobby : Menghayal
 ┆⫹⫺ 💬 Sifat : Asik, Baik, Ramah, dll.
 ┆⫹⫺ 🗺️ Tinggal : Indonesia, Jakarta
-╚════════ஜ۩۞۩ஜ════════╝
+╚═════════ஜ۩۞۩ஜ═════════╝
 ⟣⟞⟚⟝ 〨⎣ *Nᴏᴛᴇ* ⎤〨 ⟞⟚⟝⟢
 𐚀 Owner tidak respon chat aneh
 𐚀 Owner berhak block siapa saja
