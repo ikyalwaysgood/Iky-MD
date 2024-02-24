@@ -12,6 +12,7 @@ global.eror = '_*sєrvєr єrrσr*_'
 global.stiker_wait = '_*⫹⫺ stíckєr sєdαng díвuαt ...*_'
 global.packname = 'mαdє wíth'
 global.author = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
+global.audio = 'https://file.btch.bz/file/fi5y8fhhrbfyn4ok1ptk.mp3'
 global.maxwarn = '2' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
