@@ -35,13 +35,10 @@ ubah di bawah!!!
       mediaType: 1,
       renderLargerThumbnail: true
       }}})
-              let vn = "./vn/menu.mp3"
-
-  conn.sendFile(m.chat, vn, "menu.mp3", null, m, true, {
-    type: "audioMessage",
-    ptt: true,
-  });
-}
+exports.sendAudio = async (sock, jid, url, quoted) => {
+  const main = await sock.sendMessage(jid, { audio: { url: url }, mimetype: 'audio/mp3', ptt: false }, { quoted: quoted });
+  return main;
+};
 handler.help = ['menu']
 handler.tags = ['main']
 handler.command = /^(menu)$/i;
