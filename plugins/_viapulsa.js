@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
 	conn.reply(m.chat, `╠═〘 PEMBAYARAN 〙 ═
 ╠═ Untuk Pembayaran Via Pulsa
 ╠➥ Ke nomer ini
-║➥ 081395861695
+║➥ 083164864536
 ║
 ╠═〘 Fitur 〙 ═
 ║
@@ -22,9 +22,9 @@ let handler = async (m, { conn }) => {
 ╠➥ *DAN 200 LEBIH*
 ║   *FITUR LAINNYA*
 ║ 
-╠═ ©2021 
-╠═ Scrip original by Tio
-╠═〘 ${namabot} 〙 ═`.trim(), m)
+╠═ ©2024 
+╠═ Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ
+╠═〘 Kιɳα Bσƚ 〙 ═`.trim(), m)
 }
 
 handler.command = /^viapulsa$/i
