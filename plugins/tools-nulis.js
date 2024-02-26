@@ -3,7 +3,7 @@
 const { spawn } = require('child_process')
 
 // Font By MFarelS:V
-let fontPath = 'src/font/Zahraaa.ttf'
+let fontPath = '.src/.font/Zahraaa.ttf'
 let handler = async (m, { conn, args }) => {
     if (!global.support.convert &&
         !global.support.magick &&
