@@ -24,7 +24,7 @@ let name = Array.isArray(plugins[key]?.help) ? plugins[key]?.help?.join(' , ') :
           previewType: 0,
           renderLargerThumbnail: true,
           thumbnailUrl: 'https://telegra.ph/file/da3dd014f4481e4bbd089.jpg',
-          sourceUrl: ''
+          sourceUrl: 'https://www.instagram.com/iky_alwaysgood?igsh=MXdwbXR3a2xxNjRocA=='
         }
       },
       mentions: [m.sender]
