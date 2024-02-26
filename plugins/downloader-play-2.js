@@ -25,7 +25,7 @@ var handler = async (m, {
                 text: caption, 
                 contextInfo: {
                      externalAdReply: {
-                        title: "Powered by",
+                        title: "Powered by Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ",
                         mediaType: 1,
                         previewType: 0,
                         renderLargerThumbnail: true,
