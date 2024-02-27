@@ -31,7 +31,7 @@ ubah di bawah!!!
       title: `© Kιɳα Bσƚ`,
       body: global.author,
       thumbnailUrl: 'https://telegra.ph/file/da3dd014f4481e4bbd089.jpg',
-      sourceUrl: `https://whatsapp.com/channel/0029VaACVbGDuMRk7zy6vI3a`,
+      sourceUrl: `https://www.instagram.com/iky_alwaysgood?igsh=MXdwbXR3a2xxNjRocA==`,
       mediaType: 1,
       renderLargerThumbnail: true
       }}})
