@@ -25,12 +25,12 @@ ubah di bawah!!!
  conn.sendMessage(m.chat, {
       video: { url: "https://btch.pages.dev/file/e3cdfeaf72fd2d4dbd3e0.mp4"},
       gifPlayback: true,
-      caption: ' *_"Kemauan adalah kunci sukses. Orang-orang sukses, berusaha keras apa pun yang mereka rasakan dengan menerapkan keinginan mereka untuk mengatasi sikap apatis, keraguan atau ketakutan."_*\n\n❖━━━[ *Kιɳα Bσƚ* ]━━━❖\n*.allmenu*\n*.owner*',     
+      caption: ' *_"Janganlah engkau menyesali apa yang telah terjadi di masa lalu, tetapi bersyukurlah atas apa yang kamu miliki saat ini. Karena hidup ini adalah perjalanan yang penuh ujian dan cobaan, namun Allah selalu menyediakan jalan keluar bagi hamba-Nya yang bersabar dan beriman."_*\n\nFollow Me\n\n❖━━━[ *Kιɳα Bσƚ* ]━━━❖\n*.allmenu*\n*.owner*',     
       contextInfo: {
       externalAdReply: {
       title: `© Kιɳα Bσƚ`,
       body: global.author,
-      thumbnailUrl: 'https://telegra.ph/file/da3dd014f4481e4bbd089.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/ec1342450424ae0bf13ba.jpg',
       sourceUrl: `https://www.instagram.com/iky_alwaysgood?igsh=MXdwbXR3a2xxNjRocA==`,
       mediaType: 1,
       renderLargerThumbnail: true
