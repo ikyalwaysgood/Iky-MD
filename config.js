@@ -16,7 +16,7 @@ global.audio = 'https://file.btch.bz/file/fi5y8fhhrbfyn4ok1ptk.mp3'
 global.maxwarn = '2' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
-global.btc = 'YOUR_API_KEY' 
+global.btc = 'ikyalwaysgood' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 global.lolkey = 'GataDios'
 global.xkey = 'd90a9e986e18778b'
@@ -50,7 +50,7 @@ global.APIs = {
   BarBarkey: 'https://api.barbar.moe'
 }
 global.APIKeys = { 
-  'https://api.botcahx.eu.org': 'YOUR_API_KEY',
+  'https://api.botcahx.eu.org': 'ikyalwaysgood',
   'https://api.lolhuman.xyz': 'GataDios',
   'https://skizo.tech': 'konekocyz', 
   'https://api.betabotz.org': 'p8ADYJib', 
