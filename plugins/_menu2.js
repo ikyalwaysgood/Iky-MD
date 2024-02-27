@@ -25,7 +25,7 @@ ubah di bawah!!!
  conn.sendMessage(m.chat, {
       video: { url: "https://telegra.ph/file/78cbac01bcbd6e1bbddaa.mp4"},
       gifPlayback: true,
-      caption: ' *_"Janganlah engkau menyesali apa yang telah terjadi di masa lalu, tetapi bersyukurlah atas apa yang kamu miliki saat ini. Karena hidup ini adalah perjalanan yang penuh ujian dan cobaan, namun Allah selalu menyediakan jalan keluar bagi hamba-Nya yang bersabar dan beriman."_*\n\nFollow Me\n\n❖━━━[ *Kιɳα Bσƚ* ]━━━❖\n*.allmenu*\n*.owner*',     
+      caption: ' *_"Janganlah engkau menyesali apa yang telah terjadi di masa lalu, tetapi bersyukurlah atas apa yang kamu miliki saat ini. Karena hidup ini adalah perjalanan yang penuh ujian dan cobaan, namun Allah selalu menyediakan jalan keluar bagi hamba-Nya yang bersabar dan beriman."_*\n\nFollow Instagram 💎\n\n❖━━━[ *Kιɳα Bσƚ* ]━━━❖\n*.allmenu*\n*.owner*',     
       contextInfo: {
       externalAdReply: {
       title: `© Kιɳα Bσƚ`,
