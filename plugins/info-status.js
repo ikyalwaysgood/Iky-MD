@@ -71,7 +71,7 @@ extendedTextMessage:{
                         mediaType: 1,
                         previewType: 0,
                         renderLargerThumbnail: true,
-                        thumbnailUrl: 'https://telegra.ph/file/da3dd014f4481e4bbd089.jpg',
+                        thumbnailUrl: 'https://telegra.ph/file/ec1342450424ae0bf13ba.jpg',
                         sourceUrl: 'https://chat.whatsapp.com/GbNiwLK3R9y4pOUFDW5eAQ'
                     }
                 }, mentions: [m.sender]
