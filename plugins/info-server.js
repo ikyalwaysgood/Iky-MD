@@ -22,7 +22,7 @@ let handler = async (m, { conn }) => {
               previewType: 0,
               renderLargerThumbnail: true,
               thumbnailUrl: 'https://telegra.ph/file/ec1342450424ae0bf13ba.jpg',
-              sourceUrl: ''
+              sourceUrl: 'https://www.instagram.com/iky_alwaysgood?igsh=MXdwbXR3a2xxNjRocA=='
             }
           },
           mentions: [m.sender]
