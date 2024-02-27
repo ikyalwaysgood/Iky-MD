@@ -14,6 +14,6 @@ let handler = async (m, { conn, command }) => {
 ╰═══════════════════`, m)
 }
 
-handler.help = handler.command = ['sewa','sewabot','belibot']
+handler.help = handler.command = ['donasi','sewa','sewabot','belibot']
 handler.tags = ['main']
 module.exports = handler
