@@ -28,7 +28,7 @@ ubah di bawah!!!
       caption: ' *_"Janganlah engkau menyesali apa yang telah terjadi di masa lalu, tetapi bersyukurlah atas apa yang kamu miliki saat ini. Karena hidup ini adalah perjalanan yang penuh ujian dan cobaan, namun Allah selalu menyediakan jalan keluar bagi hamba-Nya yang bersabar dan beriman."_*\n\n Click and follow my Instagram💎\n\n❖━━━[ *Kιɳα Bσƚ* ]━━━❖\n*.allmenu*\n*.owner*',     
       contextInfo: {
       externalAdReply: {
-      title: `© Kιɳα Bσƚ by`,
+      title: `© Kιɳα Bσƚ`,
       body: global.author,
       thumbnailUrl: 'https://telegra.ph/file/19ec91cb44e7c27c78708.jpg',
       sourceUrl: `https://www.instagram.com/iky_alwaysgood?igsh=MXdwbXR3a2xxNjRocA==`,
