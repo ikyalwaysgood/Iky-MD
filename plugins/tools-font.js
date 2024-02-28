@@ -1,6 +1,6 @@
 let fetch = require('node-fetch')
 let handler = async (m, { text, usedPrefix, command }) => {
-    if (!text) throw `contoh:\n${usedPrefix + command} botcahx`
+    if (!text) throw `contoh:\n${usedPrefix + command} kinabot`
     
     try {
         let json = await fetch(`https://api.botcahx.eu.org/api/tools/styletext?text=${text}&apikey=${btc}`)
