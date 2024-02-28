@@ -201,7 +201,7 @@ text = typeof conn.menu == 'string' ? conn.menu : typeof conn.menu == 'object' ?
                         mediaType: 1,
                         previewType: 0,
                         renderLargerThumbnail: true,
-                        thumbnailUrl: 'https://telegra.ph/file/790865abf3bec9ef356ad.jpg',
+                        thumbnailUrl: 'https://telegra.ph/file/042cdc3dd3771d3f9b63d.jpg',
                         sourceUrl: 'https://www.instagram.com/iky_alwaysgood?igsh=MXdwbXR3a2xxNjRocA=='
                     }
                 }, mentions: [m.sender]
