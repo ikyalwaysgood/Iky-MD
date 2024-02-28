@@ -4,7 +4,7 @@ const handler = async (m, { text, usedPrefix, command }) => {
     throw `Masukkan Domain/Sub Domain!\n\n*Contoh:* botcahx.eu.org`;
   }
   if (text.includes('https://') || text.includes('http://')) {
-    throw `Tolong masukkan domain/sub domain secara lengkap. Contoh: botcahx.eu.org`;
+    throw `Tolong masukkan domain/sub domain secara lengkap. Contoh: kinabot.eu.org`;
   }
   const options = {
     method: 'GET',
