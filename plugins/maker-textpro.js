@@ -1,5 +1,5 @@
 let handler = async (m, { conn, command, text, usedPrefix }) => {
-  if (!text) throw `🚩 *Contoh:* ${usedPrefix + command} botcahx`
+  if (!text) throw `🚩 *Contoh:* ${usedPrefix + command} kinabot`
     const dates = new Date(); 
     const timestamp = dates.getTime();     
     const date = new Date(timestamp);
