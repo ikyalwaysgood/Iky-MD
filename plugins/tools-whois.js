@@ -1,7 +1,7 @@
 const fetch = require("node-fetch");
 let handler = async (m, { text, usedPrefix, command }) => {
-  if (!text) throw `Masukkan Domain!\n\n*Contoh:* botcahx.eu.org`;
-  if (text.includes('https://') || text.includes('http://')) throw `Tolong masukkan tanpa domain *https/http!*. Contoh: botcahx.eu.org`;  
+  if (!text) throw `Masukkan Domain!\n\n*Contoh:* kinabot.eu.org`;
+  if (text.includes('https://') || text.includes('http://')) throw `Tolong masukkan tanpa domain *https/http!*. Contoh: kinabot.eu.org`;  
   try {
     const waiting = `_Sedang mencari informasi WHOIS untuk ${text}..._`;
     m.reply(waiting);    
