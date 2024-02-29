@@ -76,5 +76,5 @@ Whatsapp : 085794908894
 Thanks To : 
 - Iky Official
 - Dan Semua Yang  Berkontribusi Dalam Pengambangan Script Ini 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
