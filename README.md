@@ -10,7 +10,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # Penjelasan 
  
-> **Warning**:Jika ingin database terkoneksi ke MongoDb 
+> **Warning**: Jika ingin database terkoneksi ke MongoDb 
 maka di haruskan daftar terlebih dahulu 
 akun mongodb anda, Namun sc ini ada akun
 Mongo gratis :
