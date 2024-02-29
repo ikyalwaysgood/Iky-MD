@@ -69,13 +69,12 @@ node index.js --pairing
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-## Thanks To
+> ## Thanks To
 ```bash
 𝐀𝐮𝐭𝐡𝐨𝐫 : Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ
 Whatsapp : 085794908894
 Thanks To : 
 - Iky Official
 - Dan Semua Yang  Berkontribusi Dalam Pengambangan Script Ini 
-
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
