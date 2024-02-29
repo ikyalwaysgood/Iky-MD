@@ -612,4 +612,111 @@ global.asmaulhusna = [
         "latin": "Malikul Mulk",
         "arabic": "مَالِكُ الْمُلْكِ",
         "translation_id": "Yang Memiliki Mutlak sifatPenguasa Kerajaan (Semesta)",
-        "translation_en": "The Owner of All S
+        "translation_en": "The Owner of All Sovereignty"
+    },
+    {
+        "index": "85",
+        "latin": "Dzul JalaaliWal Ikraam",
+        "arabic": "ذُوالْجَلاَلِوَالإكْرَامِ",
+        "translation_id": "Yang Memiliki Mutlak sifat PemilikKebesaran dan Kemuliaan",
+        "translation_en": "The Lord of Majesty and Generosity"
+    },
+    {
+        "index": "86",
+        "latin": "Al Muqsith",
+        "arabic": "الْمُقْسِطُ",
+        "translation_id": "Yang Memiliki Mutlak sifat Maha Adil",
+        "translation_en": "The Equitable, the Requiter"
+    },
+    {
+        "index": "87",
+        "latin": "Al Jamii’",
+        "arabic": "الْجَامِعُ",
+        "translation_id": "Yang Memiliki Mutlak sifat Maha Mengumpulkan",
+        "translation_en": "The Gatherer, the Unifier"
+    },
+    {
+        "index": "88",
+        "latin": "Al Ghaniyy",
+        "arabic": "الْغَنِيُّ",
+        "translation_id": "Yang Memiliki Mutlak sifat Maha Berkecukupan",
+        "translation_en": "The All Rich, the Independent"
+    },
+    {
+        "index": "89",
+        "latin": "Al Mughnii",
+        "arabic": "الْمُغْنِي",
+        "translation_id": "Yang Memiliki Mutlak sifat Maha Memberi Kekayaan",
+        "translation_en": "The Enricher, the Emancipator"
+    },
+    {
+        "index": "90",
+        "latin": "Al Maani",
+        "arabic": "اَلْمَانِعُ",
+        "translation_id": "Yang Memiliki Mutlak sifat Maha Mencegah",
+        "translation_en": "The Withholder, the Shielder, the Defender"
+    },
+    {
+        "index": "91",
+        "latin": "Ad Dhaar",
+        "arabic": "الضَّارَّ",
+        "translation_id": "Yang Memiliki Mutlak sifat Maha Memberi Derita",
+        "translation_en": "The Distressor, the Harmer"
+    },
+    {
+        "index": "92",
+        "latin": "An Nafii’",
+        "arabic": "النَّافِعُ",
+        "translation_id": "Yang Memiliki Mutlak sifat Maha Memberi Manfaat",
+        "translation_en": "The Propitious, the Benefactor"
+    },
+    {
+        "index": "93",
+        "latin": "An Nuur",
+        "arabic": "النُّورُ",
+        "translation_id": "Yang Memiliki Mutlak sifat Maha Bercahaya(Menerangi, Memberi Cahaya)",
+        "translation_en": "The Light"
+    },
+    {
+        "index": "94",
+        "latin": "Al Haadii",
+        "arabic": "الْهَادِي",
+        "translation_id": "Yang Memiliki Mutlak sifat Maha Pemberi Petunjuk",
+        "translation_en": "The Guide"
+    },
+    {
+        "index": "95",
+        "latin": "Al Baadii",
+        "arabic": "الْبَدِيعُ",
+        "translation_id": "Yang Memiliki Mutlak sifat Maha Pencipta",
+        "translation_en": "Incomparable, the Originator"
+    },
+    {
+        "index": "96",
+        "latin": "Al Baaqii",
+        "arabic": "اَلْبَاقِي",
+        "translation_id": "Yang Memiliki Mutlak sifat Maha Kekal",
+        "translation_en": "The Ever Enduring and Immutable"
+    },
+    {
+        "index": "97",
+        "latin": "Al Waarits",
+        "arabic": "الْوَارِثُ",
+        "translation_id": "Yang Memiliki Mutlak sifat Maha Pewaris",
+        "translation_en": "The Heir, the Inheritor of All"
+    },
+    {
+        "index": "98",
+        "latin": "Ar Rasyiid",
+        "arabic": "الرَّشِيدُ",
+        "translation_id": "Yang Memiliki Mutlak sifat Maha Pandai",
+        "translation_en": "The Guide, Infallible Teacher, and Knower"
+    },
+    {
+        "index": "99",
+        "latin": "As Shabuur",
+        "arabic": "الصَّبُورُ",
+        "translation_id": "Yang Memiliki Mutlak sifat Maha Sabar",
+        "translation_en": "The Patient"
+    }
+]
