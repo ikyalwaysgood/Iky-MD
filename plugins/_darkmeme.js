@@ -1,7 +1,7 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn, command, usedPrefix }) => {
-	
-	conn.sendButtonImg(m.chat, await ( await fetch(`https://api.botcahx.eu.org/api/darkmeme?apikey=${btc}`)).buffer(), 'Awok lanjut🗿', 'NEXT', `${usedPrefix + command}`, m)
+
+        conn.sendButtonImg(m.chat, await ( await fetch(`https://hardianto.xyz/api/darkmeme?apikey=hardianto`)).buffer(), 'Awowk lanjut🗿', 'NEXT', `${usedPrefix + command}`, m)
 
 }
 
@@ -10,6 +10,6 @@ handler.tags = ['image']
 handler.command = /^(darkmeme)$/i
 handler.register = true
 
-handler.limit = 30
+handler.limit = 3
 
 module.exports = handler
