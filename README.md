@@ -67,6 +67,7 @@ node index.js --pairing
 [![Group Chat](https://img.shields.io/badge/Group%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GbNiwLK3R9y4pOUFDW5eAQ) 
 [![Bot](https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283164864536)
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## Thanks To
 ```bash
@@ -75,4 +76,6 @@ Whatsapp : 085794908894
 Thanks To : 
 - Iky Official
 - Dan Semua Yang  Berkontribusi Dalam Pengambangan Script Ini 
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
