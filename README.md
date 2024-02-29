@@ -34,9 +34,6 @@ db: node . --db "mongodb+srv://botwa:Jxrt6KiUNOOccDuo@cluster0.dytrn2e.mongodb.n
 >dan juga gampang instalasi nya
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-## Base Ori
-Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
-
 ## Run On Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ikyalwaysgood/Iky)
